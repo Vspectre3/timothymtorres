@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Detail-oriented programmer offering exceptional troubleshooting skills and talent to solve problems.  Looking to continue my programming journey at a mission-driven company.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timothymtorres&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 Tech Stack
