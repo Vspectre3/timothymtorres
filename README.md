@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   ![DM](https://img.shields.io/badge/-DM-333333?style=flat&logo=dm)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Corona SDK](https://img.shields.io/badge/-CoronaSDK-333333?style=flat&logo=coronaengine)
+  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 - 🌐
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
